@@ -1,6 +1,3 @@
 # README
 
-Blog sim...porraaa
-
-
-adsfasddfsadf
+Blog sobre musculacao com dicas e podcasts semanais.

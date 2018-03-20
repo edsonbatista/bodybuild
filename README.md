@@ -1,3 +1,3 @@
 # README
 
-Blog sobre musculacao com dicas e podcasts semanais.
+Blog sobre musculacao com dicas semanais, podcasts e marketplace de suplementos.
